@@ -1,0 +1,12 @@
+{
+    "messages": {
+      "fetch_success":    "Successfully fetched weather data",
+      "fetch_error":      "Error fetching weather data",
+
+      "entity": {   
+        "insert_success":   "data inserted in entity successfully",
+        "insert_error_1":   "Error inserting",
+        "insert_error_2":   "data in entity"
+      }
+    }
+}
