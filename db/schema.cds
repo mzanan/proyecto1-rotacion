@@ -12,6 +12,6 @@ entity weather {
   timezone   : Integer;
   humidity   : Integer;
   alarm      : Boolean;
-  date       : Date;
+  date       : String;
   season     : String;
 }
